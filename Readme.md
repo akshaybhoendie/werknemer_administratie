@@ -1,6 +1,6 @@
 ## Werknemer administratie
 
-Een simpel applicatie voor het tonen van alle werknemers uit de database.
+Een simpel applicatie voor het tonen van alle werknemers uit de database, middels een jdbc connectie.
 
 ## Instructies
 In de resource directory(src>main>resources>sql-script) vind je de sql script met wat dummy data, draai
